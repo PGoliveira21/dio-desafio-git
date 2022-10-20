@@ -1,4 +1,4 @@
-# Repositorio do desafio Dio Git
+# Repositorio Dio Git
 Desafio de projeto sobre git e git hub
 
 ## Links Uteis
